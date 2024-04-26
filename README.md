@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on programming to real life
 - 📫 How to reach me... That is difficult
 - 😄 Pronouns: VJ
-- ⚡ Fun fact: i'm always Student
+- ⚡ Fun fact: i'm Student
 
