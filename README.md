@@ -59,6 +59,8 @@
 
 ###
 
+
 <br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/VIJAYWHAT/VIJAYWHAT/output/snake.svg" alt="Snake animation" />
